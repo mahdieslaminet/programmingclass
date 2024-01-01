@@ -9,7 +9,7 @@
     https://github.com/NaviW-D/Cam-Scanner-Uni.git
 
 - ### sleep-detection
-    git@github.com:sadranamavar/sleep-detection.git
+   https://github.com/sadranamavar/sleep-detection.git
 
-- smart_termometer 
+- ### smart_termometer 
     https://github.com/robonald/smart_termometer.git
