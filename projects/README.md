@@ -38,3 +38,11 @@
 - ### FaceRecognition
   https://github.com/mahdieslaminet/FaceRecognition.git
   
+- ### boors
+    https://github.com/sadranami/boors.git
+
+  - ### hoozor_ghiabe
+      https://github.com/sadranami/hoozor_ghiabe.git
+    
+- ### telebot_advance
+    https://github.com/sadranami/telebot_advance.git
